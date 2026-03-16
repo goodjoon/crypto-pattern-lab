@@ -28,6 +28,7 @@
 4. `apps/research-worker`
 5. `libs/common-schema`
 6. `infra/docker`
+7. Gradle wrapper 추가
 
 ## 3. 추천 진행 순서
 
@@ -62,3 +63,5 @@
 - collector interface 초안
 - common schema 문서 또는 코드 스텁
 - docker-compose 초안
+- 아키텍처 원칙 문서
+- 개발 원칙 문서
